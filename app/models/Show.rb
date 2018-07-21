@@ -4,4 +4,3 @@ class Show < ActiveRecord::Base
         self.maximum(:rating)
     end
 end
-binding.pry
